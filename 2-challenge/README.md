@@ -30,4 +30,4 @@
   -	Take parameters from user at the run time
    	 - Usage: python challenge-2.py --config instance_imds.cfg
          - Options :
-	           -  -c or --config    <Cfg absolute path>
+	            -c or --config    <Cfg absolute path>
