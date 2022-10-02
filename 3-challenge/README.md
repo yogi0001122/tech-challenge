@@ -21,12 +21,12 @@
     
     Input:
     
-    obj = {"a":{"b":{"c":"d"}}}
-    key = "a/b/c"  
+      obj = {"a":{"b":{"c":"d"}}}
+      key = "a/b/c"  
     
     Output:
     
-    Key:  a/b/c  ---> Vaue:  d
+      Key:  a/b/c  ---> Vaue:  d
     
 - Approach 2: Using pandas's json_normalize method and Replacing special characters in pandas dataframe and key
 
@@ -35,9 +35,9 @@
     
     Input:
     
-    obj = {"x":{"y":{"z":"a"}}}
-    key = "x/y/z"
+      obj = {"x":{"y":{"z":"a"}}}
+      key = "x/y/z"
     
     Output:
     
-    Key:  x/y/z  ---> Vaue:  a
+      Key:  x/y/z  ---> Vaue:  a
