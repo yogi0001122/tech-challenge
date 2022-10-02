@@ -11,4 +11,4 @@
 
 - Install Python's Libraries and Run below mentioned command
   
-    pip install -r requirements.txt
+      pip install -r requirements.txt
