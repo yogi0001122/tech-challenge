@@ -9,6 +9,6 @@
 - [Python](https://www.python.org/downloads/) (version 3+)
 - [pip](https://pip.pypa.io/en/stable/installing/)
 
-- Install Python's Libraries and Run below mentioned command 
+- Install Python's Libraries and Run below mentioned command
   
     pip install -r requirements.txt
