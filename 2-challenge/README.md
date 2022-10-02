@@ -27,7 +27,3 @@
 ## Test Script
 
     python challenge-2.py --config instance_imds.cfg
-  -	Take parameters from user at the run time
-   	 - Usage: python challenge-2.py --config  <Cfg Path>
-         - Options :
-	            -c or --config  <CFG Absolute path>
