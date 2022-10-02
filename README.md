@@ -7,14 +7,13 @@ Challenges:
   - 3-Chellenge
 ---
 
-## Terraform Code Samples for challenge#1
+## Terraform Code Samples for 
 
+- [1-challenge](./1-challenge) - 3-Tier Environment Setup within Azure Cloud:
 
 ## Python Code Samples for challenge#2 and challenge#3
 
 These are code samples that show common scenario operations with the different-2 product's using Python different-2 libraries/module.
-
-- [1-challenge](./1-challenge) - 3-Tier Environment Setup within Azure Cloud:
 
 - [2-challenge](./2-challenge) - Get the meta data of an instancee within Azure Cloud:
     - Call IMDS API and Return a json formatted output.
