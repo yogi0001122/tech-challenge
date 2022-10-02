@@ -2,6 +2,12 @@
 
  This code is to query the metadata of an instance within Azure
  
+ The following are needed to run PythonFlask API: 
+
+### Prerequisite: 
+
+- [Python](https://www.python.org/downloads/) (version 3.8.6)  -- Tested code
+- [pip](https://pip.pypa.io/en/stable/installing/)
  
 # CFG File -- instance_imds.cfg
 
