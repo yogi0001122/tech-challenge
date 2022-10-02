@@ -13,7 +13,7 @@
   
     pip install -r requirements.txt
  
-# CFG File -- instance_imds.cfg
+## CFG File -- instance_imds.cfg
 
     [imds_api_settings]    #------> section header followed by key/value
     imds_base_url = http://169.254.169.254
@@ -23,3 +23,7 @@
 
     [serach_keys]         #------> section header followed by key/value
     keys = ["subscriptionId","storageAccountType","sku"]
+
+## Test Script
+
+    python challenge-2.py --config instance_imds.cfg
