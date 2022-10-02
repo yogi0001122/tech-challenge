@@ -16,6 +16,6 @@ These are code samples that show common scenario operations with the different-2
 
 - [2-challenge](./2-challenge/README.md) - Get the meta data of an instancee within Azure Cloud:
     - Call IMDS API and Return a json formatted output.
-    - Retriev individually data key
-    - Read base url/uri/serach keys from configuration file
+    - Retrieve individual data key
+    - Read base url/uri/search key from configuration file
     - Enabling Logging
