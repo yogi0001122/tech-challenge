@@ -6,7 +6,7 @@
 
 ### Prerequisite: 
 
-- [Python](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/) (version 3+)
 - [pip](https://pip.pypa.io/en/stable/installing/)
  
 # CFG File -- instance_imds.cfg
