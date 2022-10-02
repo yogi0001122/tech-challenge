@@ -19,3 +19,7 @@ These are code samples that show common scenario operations with the different-2
     - Retrieve individual data key
     - Read base url/uri/search key from configuration file
     - Enabling Logging
+
+- [3-challenge](./3-challenge) - To get the key's value from nested object:
+    - Approach 1 --> Get nested value using for loop 
+    - Approach 2 --> Get Nested value using pandas's json_normalize method 
