@@ -2,7 +2,7 @@
 
  This code is to query the metadata of an instance within Azure
  
- The following are needed to run PythonFlask API: 
+ The following are needed to run this code: 
 
 ### Prerequisite: 
 
