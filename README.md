@@ -7,7 +7,10 @@ Challenges:
   - 3-Chellenge
 ---
 
-# Python Code Samples for challenge#2 and challenge#3
+## Terraform Code Samples for challenge#1
+
+
+## Python Code Samples for challenge#2 and challenge#3
 
 These are code samples that show common scenario operations with the different-2 product's using Python different-2 libraries/module.
 
