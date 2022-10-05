@@ -100,7 +100,7 @@ module "backend-functionapps" {
   app_location                  = var.app_location
   service_plan_id               = module.appservice-plan.app_service_plan_id
   tags                          = var.tags
-  storage_account_name          = module.storage-account.storage_account_id
+  storage_account_name          = var.storgae_account_name
   storage_account_access_key    = module.storage-account.primary_key
   depends_on                    = [module.resourcegroup,module.storage-account,module.appservice-plan]
 }
