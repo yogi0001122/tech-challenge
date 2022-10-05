@@ -6,6 +6,7 @@ terraform {
     }
   }
   required_version = ">= 0.14.9"
+  # Setup variables for backend resources
   backend "azurerm" {
     resource_group_name  = "devops-terraform"
     storage_account_name = "devopschalleng1"
