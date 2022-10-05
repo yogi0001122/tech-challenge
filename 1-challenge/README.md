@@ -20,7 +20,7 @@
 
 A module is a container for multiple resources that are used together. Modules can be used to create lightweight abstractions, so that you can describe your infrastructure in terms of its architecture, rather than directly in terms of physical objects.
 
-For the solution, we have created and used five modules:
+For the solution, we have created and used seven modules:
 1. resourcegroup        - creating resourcegroup
 2. networking           - creating azure virtual network and required subnets
 3. storage-account      - creating Azure Storage Account, Container and Queues
