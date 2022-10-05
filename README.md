@@ -7,7 +7,7 @@ Challenges:
   - 3-Chellenge
 ---
 
-## Terraform Code Samples for 3-Tier Environment Setup
+## Terraform Code Samples for 3-Tier Environment Setup challenge#1
 
 - [1-challenge](./1-challenge) - 3-Tier Environment Setup within Azure Cloud:
 
