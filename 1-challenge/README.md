@@ -4,11 +4,14 @@
 
 
 # Terraform code to deploy three-tier architecture on azure
+#### Note: Additional improvements and remaining resources are required to produce a production-ready solution.
 
 ## Installation
 - [Terraform](https://www.terraform.io/downloads.html)
 
 ### The Terraform resources will consists of following structure
+
+
 
 ```
 ├── main.tf                   // The primary entrypoint for terraform resources.
