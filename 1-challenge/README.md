@@ -26,7 +26,7 @@ A module is a container for multiple resources that are used together. Modules c
 For the solution, we have created and used seven modules:
 1. resourcegroup        - creating resourcegroup
 2. networking           - creating azure virtual network and required subnets
-3. storage-account      - creating Azure Storage Account, Container and Queues
+3. storage-account      - creating Azure Storage Account, Container and Queues for Triggers and bindings in Azure Functions
 4. appservice-plan      - creating App Service plan to host web app and function app
 5. web-app              - creating web app to host front-end app
 6. backend-functionapps - creating function app to host backend-end app
