@@ -21,7 +21,7 @@
 ```
 ### Module
 
-A module is a container for multiple resources that are used together. Modules can be used to create lightweight abstractions, so that you can describe your infrastructure in terms of its architecture, rather than directly in terms of physical objects.
+A module is a collection of resources that are used in combination. In order to describe your infrastructure in terms of its architecture rather than specifically in terms of physical objects, you can use modules to build simple abstractions.
 
 For the solution, we have created and used seven modules:
 1. resourcegroup        - creating resourcegroup
@@ -32,9 +32,9 @@ For the solution, we have created and used seven modules:
 6. backend-functionapps - creating function app to host backend-end app
 7. cosmos-db            - creating cosmos db account, cosmos sql db and container
 
-All the stacks are placed in the modules folder and the variable are stored under **terraform.tfvars**
+The modules folder contains all the stacks, and **terraform.tfvars** contains the variables.
 
-To run the code you need to append the variables in the terraform.tfvars
+You must add the variables to the terraform.tfvars in order to run the code.
 
 ## Deployment
 
@@ -50,7 +50,7 @@ used to create an execution plan
 
 **Step 2** `terraform validate`
 
-validates the configuration files in a directory, referring only to the configuration and not accessing any remote services such as remote state, provider APIs, etc
+validates the configuration files in a directory
 
 **Step 3** `terraform apply`
 
